@@ -10,7 +10,7 @@ export function Hero() {
           Financial reporting, simplified
         </p>
         <h1 className="font-heading text-4xl font-semibold tracking-tight text-balance md:text-5xl">
-          Close your books in minutes, not weeks
+          Easily control your financial health
         </h1>
         <p className="text-lg text-muted-foreground text-pretty">
           Fingen brings your accounts, invoices, and reports into one place
